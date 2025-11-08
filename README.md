@@ -77,8 +77,7 @@ logit(π_i) = -2.079 - 0.546sex + 0.034age + 0.006*cad.dur
 - Logistic regression is a useful predictive tool, though some residuals and specificity need attention  
 - Bivariate analysis and correlations confirm trends consistent with clinical literature
 
-## Authors
-- Lenny Bardellone – ID 2035053  
+## Author 
 - Edoardo Lovato – ID 2001319  
 - **Degree Program:** Statistics for Technologies and Sciences  
 - **Department:** Statistical Sciences, University of Padua
