@@ -78,6 +78,6 @@ logit(π_i) = -2.079 - 0.546sex + 0.034age + 0.006*cad.dur
 - Bivariate analysis and correlations confirm trends consistent with clinical literature
 
 ## Author 
-- Edoardo Lovato – ID 2001319  
+- Edoardo Lovato  
 - **Degree Program:** Statistics for Technologies and Sciences  
 - **Department:** Statistical Sciences, University of Padua
